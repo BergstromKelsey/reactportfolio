@@ -20,4 +20,4 @@ My React Portfolio Utlizes the following:
 
 # Usage 
 The application can be accessed via Heroku: 
-
+https://kelseyreactportfolio.herokuapp.com/
